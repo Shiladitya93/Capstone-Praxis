@@ -5,6 +5,10 @@ Purpose: There exist a huge assemetry of information between the candidate pool 
 
 Tools Used: Python, Selenium ( Python API), Flask etc. 
 
+Project Duration: 3 months
+
+Team : 6 people (Rajarshee Chowdhury,Moumi Das, Shiladitya Swarnakar, Soumya Banerjee, Souvick Datta, Sowmya Kartik
+
 Video Synopsis - https://drive.google.com/open?id=1n2zPo018F7csal8ieOaOmMcoIYNBOkSB
 
 All the codes are attached !  
