@@ -12,7 +12,7 @@ Team of 6 people - Rajarshee Chowdhury,Moumi Das, Shiladitya Swarnakar, Soumya B
 
 Video Synopsis - https://drive.google.com/open?id=1n2zPo018F7csal8ieOaOmMcoIYNBOkSB
 
-All the codes are attached ! Deatils: 
+All the codes are attached ! Details are as follows: 
   1. Scrapper used to scrape data from Linkedln
   2. Preprocessing codes used to preprocess the raw data.
   3. The modelling codes are attached-Two different versions are there one using Gensim and other LDA; LDA one works better).
