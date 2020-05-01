@@ -14,7 +14,8 @@ Python, Selenium ( Python API), Flask etc.
 # Team of 6 people - 
 Rajarshee Chowdhury,Moumi Das, Shiladitya Swarnakar, Soumya Banerjee, Souvick Datta, Sowmya Kartik
 
-# Video Synopsis - https://drive.google.com/open?id=1n2zPo018F7csal8ieOaOmMcoIYNBOkSB
+# Video Synopsis - 
+https://drive.google.com/open?id=1n2zPo018F7csal8ieOaOmMcoIYNBOkSB
 
 # All the codes are attached ! Details are as follows: 
   1. Scrapper used to scrape data from Linkedln
