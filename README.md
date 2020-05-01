@@ -1,4 +1,4 @@
-# Capstone-Praxis
+# Capstone Project -Praxis Business School, Kolkata
 
 # Title : Searching Linkedln using Topic Modelling
 
