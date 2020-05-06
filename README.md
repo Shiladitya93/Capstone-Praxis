@@ -12,7 +12,7 @@ Python, Selenium ( Python API), Flask etc.
 3 months
 
 # Team of 6 people - 
-Rajarshee Chowdhury,Moumi Das, Shiladitya Swarnakar, Soumya Banerjee, Souvick Datta, Sowmya Kartik
+Rajarshi Chowdhuri,Moumi Das, Shiladitya Swarnakar, Soumya Banerjee, Souvick Datta, Sowmya Kartik
 
 # Video Synopsis - 
 https://drive.google.com/open?id=1n2zPo018F7csal8ieOaOmMcoIYNBOkSB
