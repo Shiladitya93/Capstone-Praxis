@@ -1,5 +1,5 @@
 # Capstone Project -Praxis Business School, Kolkata
-Capstone project as a part of curriculum at Praxis Business School (Kolkata)
+Capstone project is a part of the PGPDS curriculum at Praxis Business School (Kolkata)
 
 # Title 
 Searching Linkedln using Topic Modelling
